@@ -1,60 +1,52 @@
-## 中国独立开发者项目列表
-聚合所有中国独立开发者的项目                  
+This is English translation of README.md      
+this is a draft, not done yet.   
+Current Progress: 15% done
 
-**1. 为什么有这个表**    
-作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
-所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可 <br/>
-（入选标准：必须是网站或App，不能是开发者工具或论坛型网站）   
+## Chinese Indiependent Developer's Project List  
+Collect all Chineese indie-dev's project
 
-**2. 项目有 3 种状态**          
+**1. Why this list exist?**    
+As dev(Developer) myself, I am curious about what other dev is doing in their spare time   
+What kind of side project they are doing.   
+So I build this list,  
+If you are indie-dev, you build 1 or more side project, you are welcome to put them in this list too!   
+Just send me a PR or open a Github Issue.   
+(Standard: It must be Website or App, **Can't** be developer tool or community, when you are not sure, just talk to me)
 
-| 开发中 | 已上线 | 已关闭 |
+**2. There are 3 status**          
+
+| Developing | Launched! | Closed |
 |--------|--------|--------|
 | :clock8: | :white_check_mark: | :x: |
 
 
-## 3. 项目列表
-（名字按时间排序，最新添加的在最上面） 
+## 3. Project list
+（name are sort by time, newest is on top） 
 
-### 2018年3月22号添加
+### 2018, March 22
 ---
 
-#### Roogle - [Github](https://github.com/Moidea), [博客](https://www.moidea.info)
-* :white_check_mark: [你好污啊](https://www.nihaowua.com)：一句话撩妹撩汉污句子
-
-#### miaowing - [Github](https://github.com/miaowing), [博客](https://zfeng.net)
-* :white_check_mark: [i5SING](http://i5sing.com)：中国原创音乐基地5sing第三方桌面客户端
-
-#### ImbaQ - [Github](https://github.com/ImbaQ), [博客](http://www.wankeyun.cc/forum-12.htm)
-* :white_check_mark: [开源链克口袋 - MyLinkToken](http://www.wankeyun.cc/thread-182.htm)：第一个可实现转账功能的第三方开源链克钱包 - [更多介绍](http://www.wankeyun.cc/forum-12.htm)
-
-#### haijiao1945 - [Github](https://github.com/haijiao1945), [博客](http://www.xboxfan.com)
-* :white_check_mark: [Xbox比价助手](http://www.xboxfan.com)：XboxOne 游戏机的跨服比价微信小程序
-
-#### SVNBucket - [Github](https://github.com/winiex)
-* :white_check_mark: [SVNBucket](http://svn.gzyunke.cn/)：免费SVN仓库，自认为是市面最好的，不限私有数量，不限成员数量
-
-#### 糖伴西红柿 - [Github](https://github.com/gaowhen)
-* :white_check_mark: [viewpre.com](https://viewpre.com/)：Kindle 书摘管理
+#### Miko Gao - [Github](https://github.com/gaowhen)
+* :white_check_mark: [viewpre.com](https://viewpre.com/)：Kindle Clippings Management Web App 
 
 #### aizuyan - [Github](https://github.com/aizuyan)
-* :white_check_mark: [GramTools](https://ritoyantools.github.io/)：跨平台工具收集（目前收集了json、diff工具）
+* :white_check_mark: [GramTools](https://ritoyantools.github.io/)：Cross-platform tool collection（now have json、diff tool）
 
-### 2018年3月21号添加
+### 2018, March 21
 ---
 
-#### Airing - [Github](https://github.com/airingursb), [博客](http://ursb.me)
-- :white_check_mark: [四时](https://itunes.apple.com/us/app/%E5%9B%9B%E6%97%B6/id1272513774?l=zh&ls=1&mt=8)：闪亮亮的天气 App - [更多介绍](https://github.com/airingursb/4times-front-end)
+#### Airing - [Github](https://github.com/airingursb), [Blog](http://ursb.me)
+- :white_check_mark: [四时](https://itunes.apple.com/us/app/%E5%9B%9B%E6%97%B6/id1272513774?l=zh&ls=1&mt=8)：Shiny Weather App - [更多介绍](https://github.com/airingursb/4times-front-end)
 - :clock8: [双生](https://github.com/oh-bear/2life)：遇见另一半的美好（共享日记）
 
 #### Arczzir - [Github](https://github.com/arczzir)
-* :white_check_mark: [Jed](https://itunes.apple.com/cn/app/jed/id1234853584)：macOS 上的 JSON 文件编辑器 - [更多介绍](https://www.bilibili.com/video/av10147282/)
+* :white_check_mark: [Jed](https://itunes.apple.com/cn/app/jed/id1234853584)：macOS JSON file editor - [更多介绍](https://www.bilibili.com/video/av10147282/)
 
-#### Drinking - [Github](https://github.com/drinking), [博客](http://drinking.github.io/)
+#### Drinking - [Github](https://github.com/drinking), [Blog](http://drinking.github.io/)
 * :white_check_mark: [饭起](https://itunes.apple.com/cn/app/%E9%A5%AD%E8%B5%B7-%E5%85%B3%E4%BA%8E%E9%A3%9F%E7%89%A9%E7%9A%84%E7%88%B1%E4%B8%8E%E6%95%85%E4%BA%8B/id1209331941?mt=8)：关于食物的爱与故事  - [更多介绍](http://fancymeet.com/)
 
 #### Yuuta - [Github](https://github.com/Trumeet), [网站](https://yuuta.moe)
-* :white_check_mark: [Dir](https://coolapk.com/apk/kh.android.dir)：一个简单美观的 Android 垃圾清理工具，支持防止文件再生 - [更多介绍](https://dir.yuuta.moe/zh/)  
+* :white_check_mark: [Dir](https://coolapk.com/apk/kh.android.dir)：a simple and elegant Android trash file clean tool, prevent file from re-generate - [更多介绍](https://dir.yuuta.moe/zh/)  
 
 #### 曦莫琅 - [Github](https://github.com/ximolang), [博客](http://www.txliang.com/)
 * :white_check_mark: [诗说社](http://shishuo.wesnice.com/)：一个文青、情怀人群的聚集地，原创诗词的发布平台
@@ -62,8 +54,8 @@
 #### ruzhan123 - [Github](https://github.com/ruzhan123)
 * :white_check_mark: [Awaker](https://www.coolapk.com/apk/155953)：科幻，地理阅读杂志的 Android 应用 - [更多介绍](https://github.com/ruzhan123/awaker)
 
-#### cwang22 - [Github](https://github.com/cwang22), [博客](https://seewang.me)
-* :white_check_mark: [Buy All Steam Games](http://steam.seewang.me)：买下所有 Steam 游戏要多少钱？
+#### cwang22 - [Github](https://github.com/cwang22), [Blog](https://seewang.me)
+* :white_check_mark: [Buy All Steam Games](http://steam.seewang.me)：How much you money do you need to buy all Stream games?
 
 #### santa - [Github](https://github.com/santa-cat)
 * :white_check_mark: [一天](https://fir.im/oneday)：24小时结识朋友的社交应用 (Android、iOS)
@@ -72,7 +64,7 @@
 * :white_check_mark: [EMore](https://www.coolapk.com/apk/com.caij.emore)：轻量简单的第三方微博客户端 
 
 
-### 2018年3月20号添加
+### 2018, March 20
 ---
 
 #### fujianjin6471
@@ -156,14 +148,14 @@
 * :white_check_mark: [steam-key-online-redeem](https://steamis.me)：Steam 游戏兑换码在线批量激活 - [更多介绍](https://github.com/hangxingliu/steam-key-online-redeem)
 
 #### ApacheCN - [博客](http://www.apachecn.org/), [Github](https://github.com/apachecn)
-* :white_check_mark: [MLIA](http://ml.apachecn.org/mlia/)：“机器学习实战”系列课程
+* :white_check_mark: [MLIA](http://ml.apachecn.org/mlia/)：Machine Learning course
 
 #### Easy - [微博](https://weibo.com/easy), [Github](https://github.com/easychen)
 * :white_check_mark:[冷熊简历](http://cv.ftqq.com/)：在线 Markdown 简历工具，支持实时预览，一键 PDF。含常用片段，内容自动保存
 * :white_check_mark:[一键代币](https://token.ftqq.com)：1 分钟免费发布你自己的加密货币，支持自动发币
 
 #### SCLeo - [Github](https://github.com/SCLeoX)
-* :white_check_mark: [pattern-finder](https://www.minegeck.net/lab/pf)：一个智能（zhang）的找规律程序 - [更多介绍](https://github.com/SCLeoX/pattern-finder)
+* :white_check_mark: [pattern-finder](https://www.minegeck.net/lab/pf)：a smart(-stupid-) pattern-finding program - [更多介绍](https://github.com/SCLeoX/pattern-finder)
 * :white_check_mark: [Reload-Failure](https://scleox.github.io/Reload-Failure/index.html)：一个完全用 2d canvas 实现的伪 3D 躲避游戏 - [更多介绍](https://github.com/SCLeoX/Reload-Failure)
 
 ### 2018年3月19号添加
@@ -420,12 +412,12 @@
 * :white_check_mark: [GhostSKB](https://itunes.apple.com/cn/app/ghostskb/id1134384859?mt=12)：(Mac) 可根据应用设置默认输入法，应用切换时，输入法也跟随切换
 
 #### simpleapples - [Github](https://github.com/simpleapples)
-* :white_check_mark: [饭斯基](https://github.com/simpleapples/fansky)：第三方饭否iOS客户端
+* :white_check_mark: [Fanskey](https://github.com/simpleapples/fansky)：Third-party FanFou iOS App
 * :white_check_mark: [摇摇选餐](https://github.com/simpleapples/ShakeChoose)：随机选餐工具
 * :white_check_mark: [短网址二维码生成器](https://github.com/simpleapples/url2qrcode)：Chrome 短网址二维码生成器
 * :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/zhiya-zang/id549139622)
 
-### 2018年3月17号添加
+### 2018, March 17
 ---
 
 #### wangzuo
@@ -467,16 +459,16 @@
 * :white_check_mark: [小专栏](https://xiaozhuanlan.com/)：专业人士的写作社区 - [更多介绍](https://www.v2ex.com/t/392109)
 
 #### 像素君
-* :white_check_mark: [创造狮导航](http://chuangzaoshi.com)：创意工作者导航
+* :white_check_mark: [Creater-lion 导航](http://chuangzaoshi.com)：创意工作者导航
 
 #### wichna
 * :white_check_mark: [Paybase](https://paybase.cn)：一个专注于支付领域的垂直论坛 - [更多介绍](https://wanqu.io/t/paybase/7891)
 * :white_check_mark: [Anyshortcut](https://anyshortcut.com/)：一款 Chrome/Firefox 效率插件，自定义快捷键快速打开常用网站 - [更多介绍](https://wanqu.io/t/anyshorcut-chrome/7648/9)
 
-#### 猫叔 - [Github](https://github.com/imeoer), [博客](http://www.chole.io/)
+#### 猫叔 - [Github](https://github.com/imeoer), [Blog](http://www.chole.io/)
 * :clock8: [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
 
-#### 糖醋陈皮 - [Github](https://github.com/1c7), [微博](https://weibo.com/2004104451/profile?topnav=1&wvr=6)
+#### 1c7 - [Github](https://github.com/1c7), [Weibo](https://weibo.com/2004104451/profile?topnav=1&wvr=6)
 * :white_check_mark: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
 * :white_check_mark: [Sideidea](http://sideidea.com)：独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
 * :white_check_mark: [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频 - [更多介绍](https://wanqu.io/t/app-cc-crash-course/7606)
@@ -485,12 +477,40 @@
 
 ---
 
-#### 4. 另外
-推荐一些对独立开发者有帮助的网站：    
+#### 4. Side note
+Here is few website that helpful for indie-dev   
 
-[英文]        
+[English]        
 * [Indie Hacker](https://www.indiehackers.com/)
 * [Awesome Indie](https://github.com/mezod/awesome-indie)
-* [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
-* [RemoteOK](https://remoteok.io/) - 找远程工作
-* [MicroConf 视频](http://www.microcon
+* [NomadList](https://nomadlist.com/)
+* [RemoteOK](https://remoteok.io/)
+* [MicroConf](http://www.microconf.com/starter/past-videos/)
+* [Stripe Atlas Guide](https://stripe.com/atlas/guides)
+* [Opps Daily - their newsletter is better then the website](https://www.oppslist.com/)
+* [Master of Scale](https://mastersofscale.com)
+
+[Chinese]    
+* [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
+* [Wanqu Forum](https://wanqu.io/?utm_source=github-chinese-independent-developer) - 湾区日报的论坛，有很多开发者会来论坛里分享自己刚做的项目，氛围很好
+* [利器](http://liqi.io/creators/)
+* [PriceTag Indie-dev interview（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
+* [Crash Course Computer Science, Chinese translation](https://github.com/1c7/crash-course-computer-science-chinese)
+
+#### 5. Twitter user that you should follow
+* [Patrick McKenzie(@patio11)](https://twitter.com/patio11)
+* [Pieter Levels(@levelsio)](https://twitter.com/levelsio) - [More info](https://twitter.com/levelsio/status/968027544103473152)  
+* [Courtland Allen(@csallen)](https://twitter.com/csallen) - Indie Hacker founder
+
+#### 6. 备注
+1. 若内容有误欢迎提出，我会马上修正
+2. 个别网站需科学上网，并非网站无法访问，请自备工具
+3. 欢迎改进此表，比如加多几个对独立开发者有帮助的网站。如果你想加一个新章节，可以开个新 issue 来讨论。
+
+#### 7. Last
+1c7 also made [sideidea.com](http://sideidea.com/)<br/>
+it's like indiehackers.com, it interivew indie-dev, how they make a profitiable business. <br/>
+right now it just translate indie hacker's interivew   <br/>
+but soon it gonna feature Chinese indie-dev story.<br/>
+in case you are wondering, I already talked to Courtland Allen, he know sideidea exist.<br/>
+
